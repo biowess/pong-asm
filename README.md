@@ -5,6 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-x86_64-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![ncurses](https://img.shields.io/badge/ncurses-terminal_UI-2E8B57?style=for-the-badge)
 ![Makefile](https://img.shields.io/badge/build-make-6DB33F?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 A terminal-based Pong game for Linux x86-64 built with **C**, **NASM assembly**, and **ncurses**.
 
@@ -74,7 +75,7 @@ pong-asm/
 └── asm/
     ├── update_game.asm
     └── helpers.asm
-```
+````
 
 ---
 
@@ -196,10 +197,11 @@ Possible next upgrades:
 
 ## Author
 
-**BIOWESS 2026**
+**BIOWESS**
 
 ---
 
 ## License
 
-Apache 2.0
+* This project is licensed under the Apache License 2.0.
+* License text: see the [LICENSE](LICENSE) file
