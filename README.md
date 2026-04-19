@@ -1,11 +1,11 @@
 # Terminal Pong
 
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c\&logoColor=white)
-![Assembly](https://img.shields.io/badge/NASM-007ACC?style=for-the-badge\&logo=linux\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-x86_64-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/NASM-007ACC?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-x86_64-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ncurses](https://img.shields.io/badge/ncurses-terminal_UI-2E8B57?style=for-the-badge)
 ![Makefile](https://img.shields.io/badge/build-make-6DB33F?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=for-the-badge)
 
 A terminal-based Pong game for Linux x86-64 built with **C**, **NASM assembly**, and **ncurses**.
 
